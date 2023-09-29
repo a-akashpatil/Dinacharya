@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group >
+        <item android:title="Profile"
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/baseline_person_24"/>
+
+        <item android:title="About"
+            android:id="@+id/nav_about"
+            android:icon="@drawable/baseline_info_24"/>
+        <item android:title="Share"
+            android:id="@+id/nav_share"
+            android:icon="@drawable/baseline_share_24"/>
+    </group>
+
+    <group>
+        <item android:icon="@drawable/baseline_logout_24"
+            android:title="Logout"
+            android:id="@+id/nav_logout"/>
+    </group>
+</menu>

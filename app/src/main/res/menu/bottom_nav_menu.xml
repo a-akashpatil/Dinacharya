@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/nav_home"
+        android:icon="@drawable/baseline_home_24"
+
+        />
+    <item android:title="Meditation"
+        android:id="@+id/nav_meditation"
+        android:icon="@drawable/baseline_self_improvement_24"
+        />
+    <item android:title="Water Reminder"
+        android:id="@+id/nav_water"
+        android:icon="@drawable/baseline_access_time_24"
+        />
+
+    <item android:title="Articles"
+        android:id="@+id/nav_articles"
+        android:icon="@drawable/baseline_article_24"/>
+</menu>

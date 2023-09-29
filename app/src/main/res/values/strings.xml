@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Dinacharya APK Demo</string>
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+    <string name="profile_image">\n\n\n\n</string>
+    <string name="https_dinacharya_apk_demo_default_rtdb_firebaseio_com_music">music</string>
+    <string name="enter_your_task_here">Enter your task here...</string>
+    <string name="set_due_date">Set Due Date</string>
+    <string name="set_time">Set Time</string>
+    <string name="save">SAVE</string>
+    <string name="_1_drink_about_8_glasses_of_water_daily">1. Drink about 8 glasses of water daily</string>
+    <string name="_2_take_small_sips_throughout_the_day">2. Take small sips throughout the day</string>
+    <string name="_3_drink_when_you_re_thirsty">3. Drink when you\'re thirsty</string>
+    <string name="_5_carry_a_refillable_water_bottle_with_you">5. Carry a refillable water bottle with you</string>
+    <string name="_4_consume_water_rich_foods_like_fruits_and_vegetables">4. Consume water-rich foods like fruits and vegetables</string>
+    <string name="hydration_tips">Hydration Tips:</string>
+    <string name="send_email_to_akashpatil5928_gmail_com">Send Email to: akashpatil5928@gmail.com</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="email" type="id" />
+    <item name="password" type="id" />
+    <item name="progressbar" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="registerNow" type="id" />
+    <item name="imageView1" type="id" />
+    <item name="imageView2" type="id" />
+    <item name="imageView3" type="id" />
+    <item name="imageView4" type="id" />
+    <item name="imageView5" type="id" />
+    <item name="imageView6" type="id" />
+</resources>

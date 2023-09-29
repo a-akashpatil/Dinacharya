@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558183295397",
+    "project_id": "dinacharya-apk-demo",
+    "storage_bucket": "dinacharya-apk-demo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558183295397:android:d9379ab3c06bf127a9604c",
+        "android_client_info": {
+          "package_name": "com.example.dinacharyaapkdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558183295397-24imp3oedgfjekvtlm3ec8mapfe3g06a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg4FJjhexL0EO9dKzE09cDumOHaQbqzTw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558183295397-24imp3oedgfjekvtlm3ec8mapfe3g06a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

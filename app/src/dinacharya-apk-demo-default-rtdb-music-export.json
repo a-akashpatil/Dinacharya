@@ -1,0 +1,22 @@
+{
+  "music1": {
+    "img": "gs://dinacharya-apk-demo.appspot.com/images/meditate.jpg",
+    "title": "Meditation Music",
+    "url": "gs://dinacharya-apk-demo.appspot.com/songs/MANTRON.mp3"
+  },
+  "music2": {
+    "img": "gs://dinacharya-apk-demo.appspot.com/images/study.jpg",
+    "title": "Study Music",
+    "url": "gs://dinacharya-apk-demo.appspot.com/songs/Meydan-Freezing-but-warm.mp3"
+  },
+  "music3": {
+    "img": "gs://dinacharya-apk-demo.appspot.com/images/gym.jpg",
+    "title": "Gym Music",
+    "url": "gs://dinacharya-apk-demo.appspot.com/songs/alex-productions-ambient-music-nature.mp3"
+  },
+  "music4": {
+    "img": "gs://dinacharya-apk-demo.appspot.com/images/sleep.jpg",
+    "title": "Sleep Music",
+    "url": "gs://dinacharya-apk-demo.appspot.com/songs/sb_aurora.mp3"
+  }
+}
